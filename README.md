@@ -2,7 +2,7 @@
 
 A simple 3D map made by Vue3 and Mapbox.
 
-[Demo](https://3dmap.netlify.app)
+[Live Demo](https://3dmap.netlify.app)
 
 ## Project setup
 ```
